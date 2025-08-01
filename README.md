@@ -40,8 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aidinmasoumi&show_icons=true&theme=transparent" alt="stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aidinmasoumi&theme=default" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidinmasoumi&layout=compact" alt="langs" />
 </p>
 
 ---
