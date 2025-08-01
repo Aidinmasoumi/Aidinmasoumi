@@ -10,10 +10,9 @@
 
 ## 👨‍💻 درباره‌ی من
 
-- 🎓 دانشجوی مهندسی معدن
 - 👨‍🔬 علاقه‌مند به هوش مصنوعی، برنامه‌نویسی پایتون و توسعه سیستم‌های خودکار
 - 🧱 در حال ساختن مسیر تخصصی‌ام با پروژه‌های شخصی و یادگیری عمیق
-- 🧠 شخصیت‌محور، الهام‌گرفته از حضرت علی و ارزش‌های انسانی در زندگی و کد
+- 🧠 🎯 تمرکز بر رشد مستمر فردی، نظم در کار و تفکر تحلیلی در حل مسائل
 
 ---
 
@@ -22,9 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ef5a3c?style=flat&logo=n8n&logoColor=white)
 
 ---
 
@@ -52,8 +48,8 @@
 
 ## 📫 ارتباط با من
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YourUsername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/aidiin01)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](aidinmasoumi01@gmail.com)
 
 ---
 
