@@ -1,6 +1,6 @@
 <!-- پروفایل حرفه‌ای گیت‌هاب | ویرایش ۲۰۲۵ -->
 
-<h1 align="center">سلام! من آیدین هستم 👋</h1>
+<h1 align="center">Aidin Masoumi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00b894&center=true&lines=📌+Python+Developer;🧠+AI+Learner;🎯+Problem+Solver;🚀+Always+Learning" />
